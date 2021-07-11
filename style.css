@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.container {
+  max-width: 960px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.countDown {
+  font-size: 64px;
+  padding: 20px;
+  border-radius: 50%;
+  text-align: center;
+  color: blue;
+  border: 2px solid blue;
+  width: 10%;
+  height: 10%;
+}
